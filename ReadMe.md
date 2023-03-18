@@ -26,7 +26,7 @@ Take note that in most cases it is recommended to use static assignments for pla
 - Database Server: Ubuntu 20.04 + MySQL.
 - Storage Server: Red Hat 8 + NFS.
 - Load Balancer: Ubuntu 20.04 (Nginx).
-- Jenkins Server.
+- Jenkins Server..
 - Configure Ansible to perform dynamic assignments.
 - Source Code: Download from [Source Code](https://github.com/Goddhi/Ansible-Config-MGT2.git)
 
