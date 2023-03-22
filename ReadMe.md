@@ -8,7 +8,7 @@ Now you may be wondering, what is the difference between static and dynamic assi
 
 Well, from the previous project, you can already tell that static assignments use the import Ansible module. The module that enables dynamic assignments is included.
 
-Hence,
+Hence,.
 
 ```
 import = Static
